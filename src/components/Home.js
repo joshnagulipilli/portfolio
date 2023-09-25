@@ -28,7 +28,7 @@ function Home() {
 
 
 
-            <a type="button" class="btn-include2 mx-3 my-3"  href="https://drive.google.com/file/d/1X0RvxMAWSVjt458GJk78yljWDaztliyH/view?usp=sharing" target="_blank"> Resume <i class="fa-solid fa-download mx-2"></i></a>
+            <a type="button" class="btn-include2 mx-3 my-3"  href="https://drive.google.com/file/d/1LwvNgP4KcHzvjKjkhRG3NPrIEzdtfEaY/view?usp=sharing" target="_blank"> Resume <i class="fa-solid fa-download mx-2"></i></a>
 
         </div>
       </div>

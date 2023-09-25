@@ -1,6 +1,5 @@
 import { createContext } from "react";
 
-const 
-SkillsContext = createContext()
+const  SkillsContext = createContext()
 
 export default SkillsContext  
